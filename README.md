@@ -115,9 +115,9 @@ Psyduck | 5
 
 </br>
 
-![Logo do Markdown](imagens/maquinavirtual1.jpeg)
+![Logo do Markdown](img/maquinavirtual1.jpeg)
 
-![Logo do Markdown](imagens/maquinavirtual2.jpeg)
+![Logo do Markdown](img/maquinavirtual2.jpeg)
 
 **Abaixo segue a Palavra-chave fornecida ao rodar localmente.** 
 
