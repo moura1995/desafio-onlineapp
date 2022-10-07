@@ -11,7 +11,7 @@
 
     Sugestão: Limpar o campo e adicionar um placeholder. "Digite aqui sua cidade".
 
-![Logo do Markdown](img/cidadejainformada.jpeg)
+![Logo do Markdown](/img/cidadejainformada.jpeg)
 
 <br>
 
@@ -22,7 +22,7 @@
 - Navegador: Google Chrome
 - Prioridade: Média
 
-![Logo do Markdown](img/cidadequenaoexiste.jpeg)
+![Logo do Markdown](/img/cidadequenaoexiste.jpeg)
 
 <br>
 
@@ -33,7 +33,7 @@
 - Navegador: Google Chrome
 - Prioridade: Média
 
-![Logo do Markdown](img/errobuscaracento.jpeg)
+![Logo do Markdown](/img/errobuscaracento.jpeg)
 
 <br>
 
@@ -44,7 +44,7 @@
 - Navegador: Google Chrome
 - Prioridade: Baixa
 
-![Logo do Markdown](img/erroortografiaclima.jpeg)
+![Logo do Markdown](/img/erroortografiaclima.jpeg)
 
 <br>
 
@@ -55,7 +55,7 @@
 - Navegador: Google Chrome
 - Prioridade: Baixa
 
-![Logo do Markdown](img/faltapadrao.jpeg)
+![Logo do Markdown](/img/faltapadrao.jpeg)
 
 <br>
 
