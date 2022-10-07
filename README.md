@@ -109,6 +109,22 @@ Psyduck | 5
 
 </br>
 
+## <b> ``Acessando os Casos de testes``</b>
+
+**Para acessar o arquivo, clique no link abaixo:**
+
+https://github.com/moura1995/desafio-onlineapp/blob/main/Casos%20de%20teste/Casos%20de%20Testes.md
+
+</br>
+
+## <b> ``Acessando os Bugs``</b>
+
+**Para acessar o arquivo, clique no link abaixo:**
+
+https://github.com/moura1995/desafio-onlineapp/blob/main/bugs/Bugs.md
+
+</br>
+
 ## <b> ``Acessando a aplicação``</b>
 
 **Como foi proposto no desafio, um ponto extra seria fornecido ao candidato que rodasse localmente o teste em um servidor local. Criei uma máquina linux usando o Hyper-V nativo do Windows, como mostra a imagem abaixo.**
